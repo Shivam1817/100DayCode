@@ -19,7 +19,7 @@ Welcome to my **#100DaysOfCode** challenge! This repository documents my daily j
 ## 📂 Repository Structure
 
 ```
-📦 100DaysOfCode-POTD
+📦 100DayCode
 │
 ├── Day1/
 │   ├── leetcode_solution.cpp
