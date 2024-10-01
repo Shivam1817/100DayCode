@@ -1,3 +1,5 @@
+//1497. Check If Array Pairs Are Divisible by k
+
 class Solution {
 public:
     bool canArrange(vector<int>& arr, int k) {
